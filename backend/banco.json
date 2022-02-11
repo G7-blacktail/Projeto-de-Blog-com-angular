@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "nome": "Gustavo",
+            "mensagem": "Me sinto um merda por não conseguir fazer esse pequeno projeto funcionar"
+        },
+        {
+            "id": 2,
+            "nome": "André",
+            "mensagem": "Continue estudando e trabalhando, você tem que continuar"
+        },
+        {
+            "id": 3,
+            "nome": "Mariane",
+            "mensagem": "Sua família precisa de voê, não desista"
+        }
+    ]
+}
